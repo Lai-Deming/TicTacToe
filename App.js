@@ -5,7 +5,7 @@ import Page from "./pages/Page";
 const styles = StyleSheet.create({
   container: {
     fontFamily: "sans-serif",
-    margin: 50,
+    margin: 20,
     padding: 0,
   },
 });
